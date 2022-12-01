@@ -1,0 +1,48 @@
+# MacOS
+.DS_Store
+
+# vscode
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
+dist/
+build/
+*.egg-info/
+.qt_for_python/
+
+# Experiments
+tmp/
+bak/
+tbl_cache/
+
+
+# Jupyter notebook
+.ipynb_checkpoints/
+
+# exec
+*.spec
+
+# config
+config/
+
+# csv, text, zip
+*.xlsx
+*.csv
+*.zip
+conn.txt
+
+# pem
+*.pem
+
+# image
+*.PIL
+*.ico
+*.icns
+
+# .py
+scraper_naver.py
+
+# venv
+venv
